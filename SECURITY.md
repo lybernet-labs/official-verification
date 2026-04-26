@@ -11,4 +11,5 @@ Please do not disclose vulnerabilities publicly before coordinated remediation.
 List maintained versions here.
 
 ## Authentic Releases
+
 Only trust releases published through this official organization.
